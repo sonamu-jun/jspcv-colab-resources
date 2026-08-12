@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "samples": 30000,
+  "features": 64,
+  "classes": 4,
+  "hidden_units": 128,
+  "epochs": 40,
+  "learning_rate": 0.01
+}
